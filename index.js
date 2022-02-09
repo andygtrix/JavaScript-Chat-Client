@@ -1,4 +1,3 @@
-import os 
 const mainAdapter = io.of("/").adapter;
 const adminAdapter = io.of("/admin").adapter;
 const readline = require('readline');
